@@ -1,4 +1,4 @@
-package com.dybalux.focustimer.ui.theme
+package com.dybalux.focustimer.presentation.theme
 
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
