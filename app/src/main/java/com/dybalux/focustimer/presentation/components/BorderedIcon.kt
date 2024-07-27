@@ -38,22 +38,6 @@ fun BorderedIcon(
     )
 }
 
-/*
-@Preview(
-    name = "AutoResizedTextPreview",
-    showBackground = true,
-)
-@Composable
-fun AutoResizedTextPreview() {
-    FocusTimerTheme {
-        AutoResizedText(
-            text = "Focus Timer"
-        )
-    }
-}
-
- */
-
 @Preview(
     name = "BorderedIcon",
     showBackground = true,
